@@ -5,7 +5,7 @@ Deployed Version can be found at https://customer-success-heimdall.herokuapp.com
 ## Deploying to Heroku
 https://devcenter.heroku.com/articles/git
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
