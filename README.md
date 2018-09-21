@@ -2,8 +2,7 @@ This is a Customer Success Sandbox application meant to use Heimdall.   Use this
 ###
 Deployed Version can be found at https://customer-success-heimdall.herokuapp.com/
 
-### `Deploying to Heroku`
-https://devcenter.heroku.com/articles/git
+### `Deploying to Heroku https://devcenter.heroku.com/articles/ `
 
 ### Available Scripts
 
