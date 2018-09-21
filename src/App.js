@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import logo from './ce-logo.png';
+import ceLogo from './ce-logo.png';
+import hLogo from './heimdall-icon.png';
 import './App.css';
 
 class App extends Component {
@@ -7,7 +8,8 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
+          <img src={ceLogo} className="App-logo" alt="logo" />
+          <img src={hLogo} className="App-logo" alt="logo" />
           <h1 className="App-title">Welcome to the Customer Success Heimdall Sandbox Application</h1>
         </header>
         <p className="App-intro">
